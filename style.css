@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.center-box{
+
+}
+
+#navbar {
+    display: flex;
+    background-color: rgb(136, 136, 241);
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    height: 150px;
+    text-align: center;
+}
+
